@@ -21,6 +21,7 @@ public:
     void setFirstName(string name) { firstName = name; }
     void setLastName(string name) { lastName = name; }
     void setSocial(string ssn) { sSN = ssn; }
+   
     string getFirstName() { return firstName; }
     string getLastName() { return lastName; }
     string getSocial() { return sSN; }
