@@ -22,7 +22,7 @@ Standard C++ library
 Implementation Details
 Class: bankAccount
 Manages a bank account with functionalities to create new accounts, open/modify/close sub-accounts, and display account information.
-Inherits from the subaccount class.
+Inherits from the Subaccount class.
 Class: checking
 Manages checking sub-accounts with functionalities specific to checking accounts.
 Class: savings
