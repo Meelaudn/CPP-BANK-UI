@@ -98,7 +98,7 @@ char choice = '0';
             continue;
         }
 
-        //REPLACE ALL SWITCH CASES WITH IF-ELSE STATEMENTS
+      //REPLACE ALL SWITCH CASES WITH IF-ELSE STATEMENTS
 
         if (choice == 'd' || choice == 'D')
         {
