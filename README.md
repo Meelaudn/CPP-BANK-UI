@@ -1,2 +1,2 @@
 # CPP-BANK-UI
-A BANK INTERFACE MEANT FOR A TELLER
+A bank interface/program meant for a bank employee to use
