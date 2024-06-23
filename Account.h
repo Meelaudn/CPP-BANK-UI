@@ -106,6 +106,7 @@ public:
                 cin.clear();
                 cout << "Invalid input, please enter a valid input:\n";
                 cin >> choice;
+            
             }
 
             if (choice == 's' || choice == 'S')
