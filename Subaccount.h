@@ -22,7 +22,8 @@ using namespace std;
      string getNum() {
         return accNum;
      }
-     int getBal() {
+    
+    int getBal() {
         return balance;
       }
 
